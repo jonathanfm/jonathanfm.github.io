@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <head>
+<body>
+SO yeah, I'm still trying to figure this out.
 
-<a href="
+<a href="about.html">About Me</a><br>
+<a href="about.html">Contact</a>
+</body>
+
 </head>
