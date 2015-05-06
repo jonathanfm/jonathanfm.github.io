@@ -1,23 +1,24 @@
 <!DOCTYPE html>
+
+
 <head>
+<title>About Jonathan</title>
+</head>
+
+<a href="index.html">Home</a>
+
+<br>
+
+Hi. My life is a joke.
+
+<nav>
+<a href="index.html">Homepage</a>
+\
+<a href="about-me.html">About Jonathan</a>
+\
+<a href="contact"html">Hit Me Up</a>
+</nav>
 
 <a href="about.html">Home</a><br>
 <a href="about.html">About Me</a>
 
-
-<h1>About Me</h1>
-<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-
-  <style>
-    a {
-      text-decoration: none;
-    }
-  
-
-  body {
-  background-color: #009EFF;
-  font-family: 'Roboto Condensed', sans-serif; 
-  }
-  
-    <body>My life is a joke.</body>
-</head>
