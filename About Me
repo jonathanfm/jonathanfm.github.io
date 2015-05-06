@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <head>
-<body>
-SO yeah, I'm still trying to figure this out.
 
-<a href="about.html">About Me</a><br>
-<a href="about.html">Contact</a>
-</body>
+<a href="about.html">Home</a><br>
+<a href="about.html">About Me</a>
 
+
+<h1>About Me</h1>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+
+  <style>
+    a {
+      text-decoration: none;
+    }
+  
+
+  body {
+  background-color: #009EFF;
+  font-family: 'Roboto Condensed', sans-serif; 
+  }
+  
+    <body>My life is a joke.</body>
 </head>
