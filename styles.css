@@ -17,16 +17,6 @@ h3 {
   font-size: 12px;
   color: #000000;
 }
-nav a {
-  text-shadow: 2px 1px gray;
-  text-decoration: none;
-  padding: 10px 10px;
-  margin: 10px 5px;
-  background-color: #31bba8;
-  opacity: 0.8;
-  border-radius: 2px;
-  color: white;
-}
 
 nav ul {
   padding-left: 0;
